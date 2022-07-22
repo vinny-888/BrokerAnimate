@@ -75193,9 +75193,9 @@ var FileUtils = /*#__PURE__*/function () {
 
 exports.FileUtils = FileUtils;
 },{}],"resources/illustration/girl.svg":[function(require,module,exports) {
-module.exports = "/girl.svg";
+module.exports = "./girl.svg";
 },{}],"resources/illustration/boy.svg":[function(require,module,exports) {
-module.exports = "/boy.f9d3081d.svg";
+module.exports = "./boy.svg";
 },{}],"camera.js":[function(require,module,exports) {
 "use strict";
 
